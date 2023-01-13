@@ -1,0 +1,9 @@
+[13-Nov-2022 03:11:04 UTC] PHP Warning:  file_get_contents(https://tv.media.jio.com/streams_live/Colors_HD/Colors_HD_250-1668308960000.key?jct=rnCc7Co7_Fg_9KMlq9-tBg&amp;pxe=1674309064&amp;st=r3h4Ri0rto0X_skniO7ikg): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home1/kuttyitl/public_html/jollytv/stream.php on line 39
+[13-Nov-2022 03:11:27 UTC] PHP Warning:  file_get_contents(https://tv.media.jio.com/streams_live/Sony_HD/Sony_HD_250-1668308940000.key?jct=SN9cVzlyXo0nGmUX-PQ9zA&amp;pxe=1674309087&amp;st=r3h4Ri0rto0X_skniO7ikg): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home1/kuttyitl/public_html/jollytv/stream.php on line 39
+[13-Nov-2022 03:12:11 UTC] PHP Warning:  file_get_contents(https://tv.media.jio.com/streams_live/Pogo_Tamil/Pogo_Tamil_250-1668308912000.key?jct=XcRq3t8-ARb6jhJsiQzLnA&amp;pxe=1674309131&amp;st=r3h4Ri0rto0X_skniO7ikg): Failed to open stream: HTTP request failed! HTTP/1.1 403 Forbidden
+ in /home1/kuttyitl/public_html/jollytv/stream.php on line 39
+[13-Nov-2022 06:18:27 UTC] PHP Warning:  Undefined variable $user in /home1/kuttyitl/public_html/jollytv/login.php on line 24
+[13-Nov-2022 06:18:27 UTC] PHP Warning:  Undefined variable $pass in /home1/kuttyitl/public_html/jollytv/login.php on line 25
+[13-Nov-2022 06:18:27 UTC] PHP Warning:  Undefined array key "ssoToken" in /home1/kuttyitl/public_html/jollytv/login.php on line 61
